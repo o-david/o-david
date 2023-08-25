@@ -6,4 +6,6 @@
 
 Here are some ideas to get you started:
 useful links:  https://www.youtube.com/watch?v=XhoWXhyuW_I - link to video on action to host vite react on ghpages 
+               https://blog.openreplay.com/how-to-build-your-react-app-using-vite/ - react vs vite documentation and  transition
+               https://pfpmaker.com/ for editing picture background 
 -->
